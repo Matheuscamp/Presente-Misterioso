@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+body {
+  background: #ff7a7a;
+}
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  font-family: "Inter", sans-serif;
+}
+.botao-presente {
+  background-color: transparent;
+  border-style: none;
+}
